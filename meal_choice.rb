@@ -16,7 +16,10 @@ end
 def dinner(food = "steak, broccoli,and rice")
   puts "The diner meal plan for Sunday is to have #{food}."
 end
-
+ puts snacks 
+ puts breakfast 
+ puts lunch
+ puts dinner
 
 
 # Call the methods with puts and your own arguments here. Like this:
