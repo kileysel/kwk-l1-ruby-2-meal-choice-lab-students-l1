@@ -7,9 +7,11 @@ end
 def breakfast(food = "pancakes, and orange juice")
   puts "In the morning #{food} is good."
 end 
+
 def lunch(food = "salad, and water")
   puts "For lunch i like to have #{food}"
 end
+
 def dinner(food = "steak, broccoli,and rice")
   puts "The diner meal plan for Sunday is to have #{food}."
 end
