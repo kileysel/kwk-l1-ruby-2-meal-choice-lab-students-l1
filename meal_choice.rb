@@ -4,6 +4,7 @@ def snacks(food="Cheetos")
 end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
+
 def breakfast(food = "pancakes, and orange juice")
   puts "In the morning #{food} is good."
 end 
